@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Kenneth Arnesen](mailto:kenneth.arnsesen@owasp.org)
+* [Tim André Jacobsen](mailto:tim.jacobsen@owasp.org)
