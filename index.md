@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Bergen
 tags: example-tag
 region: Europe
-meetup-group:
+meetup-group: owasp-bergen-meetup-group
 
 ---
 
