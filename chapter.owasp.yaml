@@ -1,0 +1,24 @@
+leaders:
+  - name: Kenneth Arnesen
+    email: kenneth.arnesen@owasp.org
+  - name: Tim André Jacobsen
+    email: tim.jacobsen@owasp.org
+    github: TimAndreJacobsen
+location:
+  country: Norway
+  country_code: NO
+  region: Vestland
+  city: Bergen
+  latitude: 60.3943055
+  longitude: 5.3259192
+meetup_group: owasp-bergen-meetup-group
+name: OWASP Bergen
+repositories:
+  - name: www-chapter-bergen
+    url: https://github.com/OWASP/www-chapter-bergen
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bergen
